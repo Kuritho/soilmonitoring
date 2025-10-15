@@ -284,7 +284,7 @@ function App() {
         <div className="header-content">
           <div className="logo">
             <Sprout className="logo-icon" />
-            <h1>USM-KCC SoilSense</h1>
+            <h1>USM-KCC MoNiTR</h1>
           </div>
           <div className="header-controls">
             <div className={`connection-status ${isConnected ? 'connected' : 'disconnected'}`}>
